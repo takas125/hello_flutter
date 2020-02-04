@@ -1,2 +1,3 @@
 # hello_flutter
-Flutter学習用アプリのリポジトリ
+An App which I study Flutter
+
